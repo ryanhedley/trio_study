@@ -1,0 +1,5 @@
+module
+examples
+docs
+.pytest_cache
+input_data
