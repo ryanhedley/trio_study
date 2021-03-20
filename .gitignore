@@ -2,4 +2,5 @@ module
 examples
 docs
 .pytest_cache
+.vscode
 input_data
