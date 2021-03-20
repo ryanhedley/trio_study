@@ -2,12 +2,20 @@
 
 An application to perform simple trio analysis between a proband and both parents using genotyping data in Illumina GTC files.
 
-## Requirements:
 
-The 'module' folder from: https://github.com/Illumina/BeadArrayFiles
-Tkinter GUI
+### Requirements:
 
-## Compatibility:
+- GTC files (Illumina) of proband and parents
+- BPM file (Illumina) corresponding to GTC files
 
-Built with Python 3.8.0 and tested using with Python 3.9.0
+### Dependencies:
+
+- The "module" folder from Illumina's [BeadArrayFiles](https://github.com/Illumina/BeadArrayFiles) repository
+- Numpy
+- Tkinter
+
+
+### Compatibility:
+
+Built with Python 3.8.0, and tested using with Python 3.9.0
 
